@@ -41,8 +41,8 @@ Doctorate-level Mathematician with over 20 years of academic and practical exper
 
 ### 📊 Featured Projects
 
-* 🐧 **[Linux Terminal Mastery](https://github.com/Ozhana/linux-terminal-mastery):** A comprehensive training hub for terminal-based data manipulation. Featuring Python-based mock data generators and advanced CLI analysis techniques.
-* 🔢 **[hbku-math-labs](https://github.com/Ozhana/hbku-math-labs):** Computational mathematics and statistical modeling laboratory, focusing on high-level mathematical validation.
+* 🐧 **[Linux Terminal Mastery](https://github.com/Ozhana/Linux-Command-Line-Mastery):** A comprehensive training hub for terminal-based data manipulation. Featuring Python-based mock data generators and advanced CLI analysis techniques.
+* 🔢 **[hbku-math-labs](https://github.com/Ozhana/hbku-math-labs/blob/main/README.md):** Computational mathematics and statistical modeling laboratory, focusing on high-level mathematical validation.
 * 🧪 **Statistical Modeling:** Ph.D. level hypothesis testing and automation scripts for complex datasets.
 
 ---
