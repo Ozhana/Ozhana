@@ -1,3 +1,15 @@
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="profile-pic.png" width="150px" style="border-radius: 50%;" alt="Dr. Ozhan Akdag" /><br />
+      <sub><b>Dr. Ozhan Akdag</b></sub>
+    </td>
+    <td>
+      <h1>🎓 Senior Data Analyst & Mathematician</h1>
+      <p><i>"Veri, doğru matematik ve güçlü bir terminal ile konuşmaya başlar."</i></p>
+    </td>
+  </tr>
+</table>
 # 🎓 Dr. Ozhan Akdag
 > **Senior Data Analyst | Ph.D. Mathematician | Linux Terminal Expert**
 
