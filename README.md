@@ -12,21 +12,22 @@
 
 ---
 
-## [cite_start]🚀 Profesyonel Özet [cite: 1, 2, 7] <br><br>[cite_start]Matematik alanında **Doktora (Ph.D.)** derecesine sahip [cite: 1, 49][cite_start], 20 yılı aşkın süredir ileri düzey istatistik ve uygulamalı matematik üzerine çalışan bir uzmanım[cite: 48, 49, 72]. [cite_start]Akademik derinliğimi, modern veri analitiği araçlarıyla birleştirerek karmaşık veri setlerini stratejik iş kararlarına dönüştürüyorum[cite: 9, 36].
+## 🚀 Profesyonel Özet
+Matematik alanında **Doktora (Ph.D.)** derecesine sahip, 20 yılı aşkın süredir ileri düzey istatistik ve uygulamalı matematik üzerine çalışan bir uzmanım. Akademik derinliğimi, modern veri analitiği araçlarıyla birleştirerek karmaşık veri setlerini stratejik iş kararlarına dönüştürüyorum.
 
-* [cite_start]**Freelance Data Analysis:** Python ve SQL kullanarak uçtan uca veri temizleme, keşifsel veri analizi (EDA) ve tahminsel modelleme[cite: 9, 36].
-* [cite_start]**İleri İstatistik:** Ph.D. seviyesinde topoloji ve uygulamalı matematik bilgisiyle derinlemesine istatistiksel geçerlilik testleri[cite: 48, 49, 72].
-* [cite_start]**Küresel Deneyim:** Katar, Danimarka, Çek Cumhuriyeti, Endonezya ve Ukrayna gibi ülkelerde uluslararası projelerde liderlik[cite: 4, 28, 29, 32, 44].
+* **Freelance Data Analysis:** Python ve SQL kullanarak uçtan uca veri temizleme, keşifsel veri analizi (EDA) ve tahminsel modelleme.
+* **İleri İstatistik:** Ph.D. seviyesinde topoloji ve uygulamalı matematik bilgisiyle derinlemesine istatistiksel geçerlilik testleri.
+* **Küresel Deneyim:** Katar, Danimarka, Çek Cumhuriyeti, Endonezya ve Ukrayna gibi ülkelerde uluslararası projelerde liderlik.
 
 ---
 
-## [cite_start]🛠️ Teknik Yetkinlikler (Skills) [cite: 17]
+## 🛠️ Teknik Yetkinlikler (Skills)
 
-| [cite_start]Veri Analizi & Bilimi [cite: 24] | [cite_start]Akademik & Hesaplamalı [cite: 22] | [cite_start]İletişim & Diller [cite: 39] |
+| Veri Analizi & Bilimi | Akademik & Hesaplamalı | İletişim & Diller |
 | :--- | :--- | :--- |
-| [cite_start]**Diller:** Python (Pandas, NumPy), R [cite: 9, 36] | [cite_start]**Araçlar:** LaTeX, Excel (Advanced), Jupyter [cite: 9, 23] | [cite_start]**Türkçe:** Anadil [cite: 40] |
-| [cite_start]**Görselleştirme:** Matplotlib, Seaborn [cite: 9, 36] | [cite_start]**Sistem:** Linux, Bash, Arduino (Robotics) [cite: 36, 38] | [cite_start]**İngilizce:** Profesyonel [cite: 41] |
-| [cite_start]**Veritabanı:** SQL, Veri Modelleme [cite: 21] | [cite_start]**Metodoloji:** İstatistiksel Analiz, Problem Çözme [cite: 8, 21] | [cite_start]**Diğer:** Rusça, Endonezyaca [cite: 42, 43] |
+| **Diller:** Python (Pandas, NumPy), R | **Araçlar:** LaTeX, Excel (Advanced), Jupyter | **Türkçe:** Anadil |
+| **Görselleştirme:** Matplotlib, Seaborn | **Sistem:** Linux, Bash, Arduino (Robotics) | **İngilizce:** Profesyonel |
+| **Veritabanı:** SQL, Veri Modelleme | **Metodoloji:** İstatistiksel Analiz, Problem Çözme | **Diğer:** Rusça, Endonezyaca |
 
 ---
 
@@ -34,16 +35,16 @@
 
 > **"Bir matematikçinin gözüyle veri, sadece sayılar değil, keşfedilmeyi bekleyen bir yapıdır."**
 
-* [cite_start]**İstatistiksel Modelleme:** Karmaşık veri setleri üzerinde Ph.D. düzeyinde hipotez testleri ve varyans analizleri[cite: 21, 49].
-* [cite_start]**Otomasyon:** Python kullanarak tekrarlayan veri işlemlerini ve hesaplamaları hızlandıran scriptler[cite: 9, 36].
-* [cite_start]**Görsel Hikayecilik:** Paydaşlar için teknik olmayan dilde, aksiyon alınabilir görsel raporlar ve dashboardlar[cite: 9, 36].
+* **İstatistiksel Modelleme:** Karmaşık veri setleri üzerinde Ph.D. düzeyinde hipotez testleri ve varyans analizleri.
+* **Otomasyon:** Python kullanarak tekrarlayan veri işlemlerini ve hesaplamaları hızlandıran scriptler.
+* **Görsel Hikayecilik:** Paydaşlar için teknik olmayan dilde, aksiyon alınabilir görsel raporlar ve dashboardlar.
 
 ---
 
 ## 🌍 Uluslararası Deneyim & Eğitim
-* [cite_start]**Ph.D. in Mathematics:** Topology Focus[cite: 49, 72].
-* [cite_start]**Global Leadership:** Katar (ISL Qatar), Danimarka (ISH), Çekya (Meridian) gibi kurumlarda bölüm başkanlığı ve koordinatörlük[cite: 27, 28, 29, 53, 55, 57].
-* [cite_start]**STEM Mentorluğu:** Uluslararası Robotik kulübü eğitmenliği ve Olimpiyat koordinatörlüğü[cite: 26, 38, 52].
+* **Ph.D. in Mathematics:** Topology Focus.
+* **Global Leadership:** Katar (ISL Qatar), Danimarka (ISH), Çekya (Meridian) gibi kurumlarda bölüm başkanlığı ve koordinatörlük.
+* **STEM Mentorluğu:** Uluslararası Robotik kulübü eğitmenliği ve Olimpiyat koordinatörlüğü.
 
 ---
 
