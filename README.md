@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=250&section=header&text=Dr.%20Ozhan%20Akdag&subtitle=Ph.D.%20Mathematician%20|%20Freelance%20Data%20Analyst&fontSize=45&fontAlignY=35&animation=twinkling" alt="Header" />
+  <img src="https://raw.githubusercontent.com/Ozhana/Ozhana/main/header.png" onerror="this.src='https://kinsta.com/wp-content/uploads/2020/08/data-analyst-skills.jpg'" alt="Header" width="100%" />
 </p>
 
 # 🎓 Dr. Ozhan Akdag | Senior Data Analyst & Mathematician
