@@ -12,8 +12,7 @@
 
 ---
 
-## [cite_start]🚀 Profesyonel Özet [cite: 1, 2, 7]
-[cite_start]Matematik alanında **Doktora (Ph.D.)** derecesine sahip [cite: 1, 49][cite_start], 20 yılı aşkın süredir ileri düzey istatistik ve uygulamalı matematik üzerine çalışan bir uzmanım[cite: 48, 49, 72]. [cite_start]Akademik derinliğimi, modern veri analitiği araçlarıyla birleştirerek karmaşık veri setlerini stratejik iş kararlarına dönüştürüyorum[cite: 9, 36].
+## [cite_start]🚀 Profesyonel Özet [cite: 1, 2, 7] <br><br>[cite_start]Matematik alanında **Doktora (Ph.D.)** derecesine sahip [cite: 1, 49][cite_start], 20 yılı aşkın süredir ileri düzey istatistik ve uygulamalı matematik üzerine çalışan bir uzmanım[cite: 48, 49, 72]. [cite_start]Akademik derinliğimi, modern veri analitiği araçlarıyla birleştirerek karmaşık veri setlerini stratejik iş kararlarına dönüştürüyorum[cite: 9, 36].
 
 * [cite_start]**Freelance Data Analysis:** Python ve SQL kullanarak uçtan uca veri temizleme, keşifsel veri analizi (EDA) ve tahminsel modelleme[cite: 9, 36].
 * [cite_start]**İleri İstatistik:** Ph.D. seviyesinde topoloji ve uygulamalı matematik bilgisiyle derinlemesine istatistiksel geçerlilik testleri[cite: 48, 49, 72].
