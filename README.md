@@ -44,6 +44,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozhana&layout=compact&theme=radical&hide=tex" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ozhana&theme=radical" alt="GitHub Streak" />
+</p>
 ---
 
 ### 📬 İletişim
