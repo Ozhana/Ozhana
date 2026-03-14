@@ -64,7 +64,7 @@ Doctorate-level Mathematician with over 20 years of academic and practical exper
   <img
     src="https://streak-stats.demolab.com/?user=Ozhana&theme=radical"
     alt="GitHub Streak"
-    width="920"
+    width="720"
   />
 </p>
 
