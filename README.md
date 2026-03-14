@@ -51,7 +51,7 @@ Doctorate-level Mathematician with over 20 years of academic and practical exper
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ozhana&show_icons=true&theme=radical&include_all_commits=true&count_private=true&width=300&height=200"
+    src="https://github-readme-stats.vercel.app/api?username=Ozhana&show_icons=true&theme=radical&include_all_commits=true&count_private=true&width=466&height=99%"
     alt="GitHub Stats"
   />
   <img
