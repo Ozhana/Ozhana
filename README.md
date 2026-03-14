@@ -51,17 +51,20 @@ Doctorate-level Mathematician with over 20 years of academic and practical exper
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ozhana&show_icons=true&theme=radical&include_all_commits=true&count_private=true&width=330&height=180"
+    src="https://github-readme-stats.vercel.app/api?username=Ozhana&show_icons=true&theme=radical&include_all_commits=true&count_private=true&width=400&height=200"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozhana&layout=compact&theme=radical&hide=tex,html,css&width=330&height=180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozhana&layout=compact&theme=radical&hide=tex,html,css&width=500&height=200"
     alt="Top Languages"
   />
+</p>
+
+<p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=Ozhana&theme=radical"
     alt="GitHub Streak"
-    width="330"
+    width="920"
   />
 </p>
 
