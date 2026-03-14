@@ -50,11 +50,11 @@ Doctorate-level Mathematician with over 20 years of academic and practical exper
 ### 📈 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ozhana&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozhana&layout=compact&theme=radical&hide=tex,html,css" width="300px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ozhana&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="300px" height="300px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozhana&layout=compact&theme=radical&hide=tex,html,css" width="300px" height="300px" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ozhana&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ozhana&theme=radical" alt="GitHub Streak" width="300px" height="300px" />
 </p>
 
 ---
